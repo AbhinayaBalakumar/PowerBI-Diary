@@ -71,7 +71,7 @@ Over the course of this program, I built a comprehensive set of skills in Micros
 
 - Completed full preparation for the **Microsoft PL-300: Power BI Data Analyst** certification exam
 - Practiced across all core exam domains: data preparation, data modelling, visualisation, and analytics
-- Achieved a 74% score on the mock exam with identified areas for further review
+- Achieved a 82% score on the mock exam with identified areas for further review
 
 ---
 
